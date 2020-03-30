@@ -1,0 +1,8 @@
+J:\ZOA临时资料\性能测试\sushe_Back\sushe\src-instru\com\bean\AdminBean.java,
+J:\ZOA临时资料\性能测试\sushe_Back\sushe\src-instru\com\bean\BuildingBean.java,
+J:\ZOA临时资料\性能测试\sushe_Back\sushe\src-instru\com\bean\TeacherBean.java,
+J:\ZOA临时资料\性能测试\sushe_Back\sushe\src-instru\com\bean\LogBean.java,
+J:\ZOA临时资料\性能测试\sushe_Back\sushe\src-instru\com\bean\OutBean.java,
+J:\ZOA临时资料\性能测试\sushe_Back\sushe\src-instru\com\bean\StudentBean.java,
+J:\ZOA临时资料\性能测试\sushe_Back\sushe\src-instru\com\bean\TBBean.java,
+J:\ZOA临时资料\性能测试\sushe_Back\sushe\src-instru\com\bean\DomitoryBean.java,
